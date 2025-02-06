@@ -1,4 +1,4 @@
-# NexaShell MetaMask Snap [![0.1.1](https://badge.fury.io/js/bch-snap.png)](https://badge.fury.io/js/bch-snap)
+# AwesomeNexa MetaMask Snap [![0.1.1](https://badge.fury.io/js/bch-snap.png)](https://badge.fury.io/js/bch-snap)
 
 ---
 
